@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi there! 
-I am Pradnya, a Master's student at the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://www.wpi.edu/">Worcester Polytechnic Institute (WPI)</a>
+I am Pradnya, a Master's student at the Robotics Engineering Department, Worcester Polytechnic Institute (WPI).
 I am passionate about developing software solutions that empower robots to sense, perceive, and navigate their environments. 
 Before discovering my interest in the software side of robotics, I gained valuable hands-on experience working with robot hardware, which has shaped me into a well-rounded Robotics Engineer.
 My interests are centered around leveraging visual cues for robot perception and navigation, and I'm seeking opportunities that primarily focus on these areas.
