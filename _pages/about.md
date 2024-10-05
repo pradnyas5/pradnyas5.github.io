@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student @ <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Worcester Polytechnic Institute</a> 
-          As you believe, so you become. 🚀
+subtitle: Graduate student @ <a Worcester Polytechnic Institute</a>  As you believe, so you become. 🚀
 
 profile:
   align: right
