@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student @ <a Worcester Polytechnic Institute</a>  As you believe, so you become. 🚀
+subtitle: Graduate student @ Worcester Polytechnic Institute.
+          As you believe, so you become. 🚀
 
 profile:
   align: right
