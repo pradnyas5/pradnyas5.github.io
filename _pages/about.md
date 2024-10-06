@@ -19,9 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!--Robotics Enthusiast. 
+Robotics Enthusiast. 
 Learner. Doer. Believer.
--->
 Hi there!
 I am a Master's student at the <a href="https://www.wpi.edu/academics/departments/robotics-engineering"> Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institute. (WPI)</a>  
 I am passionate about developing software solutions that empower robots to sense, perceive, and navigate their environments. 
