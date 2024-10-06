@@ -2,7 +2,7 @@
 layout: page
 title: Einstein Vision
 description: Perception pipeline for Autonomous Vehicles
-img: assets/img/project2/3.jpg
+img: assets/img/project2/einstein_vision.gif
 importance: 2
 category: work
 ---
