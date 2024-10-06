@@ -5,7 +5,7 @@ description: WHAT exactly do the autonmous vehicles perceive?
 img: assets/img/project2/einstein_vision.gif
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 One of the most challenging projects I undertook in the course RBE 549: Computer Vision, significantly deepened my understanding of 
