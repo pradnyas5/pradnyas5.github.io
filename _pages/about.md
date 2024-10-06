@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>Robotics Engineer</p>
     <p>Worcester Polytechnic Institute</p>
-    <p>Pittsburgh, PA 15232</p>
+    <p>Worcester, MA 01609</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
