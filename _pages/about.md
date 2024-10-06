@@ -23,3 +23,8 @@ Hey there!
 I am a Master's at the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a> I am passionate about developing software solutions that empower robots to sense, perceive, and navigate their environments. 
 
 I'm particulary focused on leveraging vision for robot perception and navigation. I'd love to connect for opportunities, discussions, or anything robotics!
+
+
+THIS WEBSITE IS CURRENTLY A WORK IN PROGRESS. PLEASE CHECK OUT MY GITHUB FOR DETAILS OF PROJECTS THAT I HAVE WORKED ON !
+OR
+DOWNLOAD THE RESUME !
