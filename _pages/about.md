@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Master's student @ <a href="https://www.wpi.edu/academics/departments/robotics-engineering"> Worcester Polytechnic Institute (WPI)</a> 
-As you believe, so you become. 🚀
+As you believe, so you become. 
 profile:
   align: right
   image: prof_pic.jpg
@@ -24,4 +24,4 @@ I am passionate about developing software solutions that empower robots to sense
 Before discovering my interest in the software side of robotics, I gained valuable hands-on experience working with robot hardware during my undergrad, 
 which has shaped me into a well-rounded Robotics Engineer.
 I’m particularly focused on leveraging visual cues for robot perception and navigation and I'm seeking opportunities that emphasizeon these areas.
-I’d love to connect with fellow robotics enthusiasts for advice, discussions, or anything robotics!"
+I’d love to connect with fellow robotics enthusiasts for advice, discussions, or anything robotics!
