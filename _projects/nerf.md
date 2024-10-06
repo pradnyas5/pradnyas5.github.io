@@ -2,7 +2,7 @@
 layout: page
 title: NeRF
 description: Deep 3D Reconstruction
-img: assets/project3/lego.gif
+img: assets/img/project3/lego.gif
 importance: 3
 category: work
 ---

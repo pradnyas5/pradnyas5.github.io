@@ -2,7 +2,7 @@
 layout: page
 title:Einstein Vision
 description: WHAT exactly do the autonmous vehicles perceive? 
-img: assets/img/project2/einstein_vision.gif
+img: assets/img/project2/3.png
 importance: 2
 category: work
 ---
