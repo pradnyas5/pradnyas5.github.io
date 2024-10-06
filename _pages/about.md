@@ -2,29 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master's student @ <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Worcester Polytechnic Institute</a> â€¢ As you believ so you become ðŸ”­
+# subtitle: Ph.D student @  <a href="https://www.ri.cmu.edu/">The Robotics Institute, CMU</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Robotics Engineer</p>
-    <p>Worcester Polytechnic Institute</p>
-    <p>MA, USA - 01609</p>
-    
+    <p>1613 Newell-Simon Hall</p>
+    <p>5000 Forbes Ave</p>
+    <p>Pittsburgh, PA 15232</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hey there!
 
-Robotics Enthusiast. 
-Learner. Doer. Believer.
-Hi there!
-I am a Master's student at the Robotics Engineering Department of Worcester Polytechnic Institute. (WPI)
-I am passionate about developing software solutions that empower robots to sense, perceive, and navigate their environments. 
-Before discovering my interest in the software side of robotics, I gained valuable hands-on experience working with robot hardware during my undergrad, 
-which has shaped me into a well-rounded Robotics Engineer.
-I’m particularly focused on leveraging visual cues for robot perception and navigation and I'm seeking opportunities that emphasizeon these areas.
-I’d love to connect with fellow robotics enthusiasts for advice, discussions, or anything robotics!
+I am a Master's at the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>  My research boradly focuses on enabling robot perception and state estimation across different sensing modalities such as vision and touch.
