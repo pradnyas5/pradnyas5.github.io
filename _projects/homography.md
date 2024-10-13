@@ -2,7 +2,7 @@
 layout: page
 title: Homography Estimation
 description: A Deep Learning approach
-img: assets/img/project5/homography.png
+img: assets/img/project5/homography.jpg
 importance: 5
 category: computer vision
 ---
