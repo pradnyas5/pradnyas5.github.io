@@ -4,7 +4,7 @@ title: NeRF
 description: Deep 3D Reconstruction
 img: assets/img/project3/lego.gif
 importance: 3
-category: work
+category: computer vision
 ---
 
 Every project has a beautiful feature showcase page.

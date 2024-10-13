@@ -4,7 +4,7 @@ title: Einstein Vision
 description: Perception pipeline for Autonomous Vehicles
 img: assets/img/project2/einstein_vision.gif
 importance: 2
-category: work
+category: computer vision
 ---
 
 One of the most challenging projects I undertook in the course RBE 549: Computer Vision, significantly deepened my understanding of Deep Learning for Computer Vision. 

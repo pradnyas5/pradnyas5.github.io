@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\_bibliography",
+    "\\_includes",
+    "\\_pages"
   ],
-  "SelectedNode": "\\C:\\Users\\pradn\\Source\\Repos\\pradnyas5.github.io",
+  "SelectedNode": "\\_pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
