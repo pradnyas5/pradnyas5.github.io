@@ -4,7 +4,6 @@
 // license: you can use this if you want to i guess
 
 function scrambledString(tag, objName, initScrambledString, initScrambledStringIndices) {
-	console.log("ScrambledString function is running");
 	this.tag = tag;
 	this.objName = objName;
 	this.string = initScrambledString;
