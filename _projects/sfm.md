@@ -1,10 +1,10 @@
 ---
 layout: page
-title:Structure from Motion
-description: Traditional 3D reconstruction
-img: assets/img/project6/sfm.jpg
+title: Panorama Stitching
+description: Traditional Image Stitching Algorithm
+img: assets/img/project6/sfm.png
 importance: 6
 category: computer vision
 ---
 
-Traditional
+Stitches a given set of images with a procedural flow of: Corner Detection, Adaptive Non Maximal Suppression, Feature Description, Feature Matching, Outlier Rejection using RANSAC, Image Warping and Blending

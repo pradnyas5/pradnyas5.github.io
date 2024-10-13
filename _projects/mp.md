@@ -2,7 +2,7 @@
 layout: page
 title: Language Embodied Indoor Navigation
 description: Agent Navigation in Simulation Environment
-img: assets/img/project7/homography.jpg
+img: assets/img/project7/mp.gif
 importance: 7
 category: computer vision
 ---
