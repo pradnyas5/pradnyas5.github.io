@@ -69,9 +69,6 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 
-<!-- Load Scramble JS -->
-<script src="{{ '/assets/js/scramble.js' | relative_url| bust_file_cache }}"></script>
-
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
 {% if site.enable_darkmode %}
@@ -147,6 +144,9 @@
     >
   {% endif %}
 {% endif %}
+
+<!-- Load Scramble JS -->
+<script src="{{ '/assets/js/scramble.js' | relative_url }}"></script>
 
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
