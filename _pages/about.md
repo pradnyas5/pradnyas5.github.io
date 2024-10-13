@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics "Software" Engineer • As you believe so you become 🔭 •
+subtitle: Robotics "Software" Engineer • As you believe so you become 🏆 •
 # subtitle: Ph.D student @  <a href="https://www.ri.cmu.edu/">The Robotics Institute, CMU</a> 
 
 profile:
