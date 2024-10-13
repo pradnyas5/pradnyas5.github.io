@@ -14,7 +14,7 @@ profile:
     <script type="text/javascript">emailScramble = new
     scrambledString(document.getElementById('email'),'emailScramble', 'pshinde1@wpi.edu', 
     [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]);</script><br></p>
-    <p>Robotics Engineer</p>
+    <p>Robotics Software Engineer</p>
     <p>Worcester Polytechnic Institute</p>
     <p>Worcester, MA 01609</p>
 
