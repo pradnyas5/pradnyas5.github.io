@@ -8,5 +8,5 @@ importance: 2
 category: computer vision
 ---
 
-One of the most challenging projects I undertook in the course RBE 549: Computer Vision, significantly deepened my understanding of Deep Learning for Computer Vision. 
-This project required a rigorous approach and offered key takeaways, boosting my conceptual grasp and practical skills in implmenting complex vision-based models.
+This projects, a part of [RBE 549: Computer Vision](https://rbe549.github.io/spring2024/proj/p3/), aims to significantly understand Deep Learning for Computer Vision. 
+It required a rigorous approach and offered key takeaways in implmenting complex vision-based models.
