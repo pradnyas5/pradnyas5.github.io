@@ -21,7 +21,7 @@ My "Robotics" interests are particulary focused on leveraging vision for robot p
 I am currently interning at [Celltrio](https://celltrio.com/) as a Robotics Software Engineer where my responsibilites consist of integrating tool transform functionality 
 in the kinematics model of a 7-axis SCARA robot to account for tool orientation and position, enhancing precision in end-effector manipulation. 
 
-During the summer of 2024, I interened at the [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) where as a Robotics Software Engineer, contributing to development of Autnomy Software for a warehouse Mobile Maniupulaor. 
+During the summer of 2024, I interened at the [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) as a Robotics Software Engineer, contributing to development of Autonomy Software for a warehouse Mobile Manipulator. 
 
 Prior to pursuing a Master's degree, I completed a Bachelor's degree in Mechatronics Engineering. 
 As an undergrad, I have also worked as a Robotics Engineer Intern at [Technodune](https://www.linkedin.com/company/technodune/) where I gained experience in overseeing both hardware and software development in robotics.
