@@ -24,7 +24,8 @@ in the kinematics model of a 7-axis SCARA robot to account for tool orientation 
 During the summer of 2024, I interened at the [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) as a Robotics Software Engineer, contributing to development of Autonomy Software for a warehouse Mobile Manipulator. 
 
 Prior to pursuing a Master's degree, I completed a Bachelor's degree in Mechatronics Engineering. 
-As an undergrad, I have also worked as a Robotics Engineer Intern at [Technodune](https://www.linkedin.com/company/technodune/) where I gained experience in overseeing both hardware and software development in robotics.
+As an undergrad, I have also worked as a Robotics Engineer Intern at [Technodune](https://www.linkedin.com/company/technodune/) where I gained experience in overseeing both 
+hardware and software development in robotics.
 
 That's all about me! 
-I'd love to connect for opportunities, discussions, or anything robotics!
+I'd love to connect for opportunities, discussions, or anything `robotics`!
