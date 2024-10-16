@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics **Software** Engineer** • As you believe so you become 🏆 •
+subtitle: Robotics Software Engineer • As you believe so you become 🏆 •
 
 profile:
   align: right
