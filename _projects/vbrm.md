@@ -9,4 +9,4 @@ category: computer vision
 ---
 
 Developed a vision-based grasp pose analysis algorithm for robotic manipulation by processing depth point clouds,
-estimating symmetry for grasp point computation, using Gazebo and ROS 2 for simulation.
+estimating symmetry for grasp point computation, using Gazebo and ROS 2 for simulation. 
