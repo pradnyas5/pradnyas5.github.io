@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: TECHNICAL PROJECTS 
+description: A collection of some cool projects that I have dedicatedly worked on (actively adding more project details, stay tuned!).
 nav: true
 nav_order: 3
 display_categories: [computer vision, state estimation, motion planning]
