@@ -8,3 +8,4 @@ importance: 7
 category: motion planning
 ---
 An object navigation workflow that implements simualtion of navigation of an agent(robot) to a goal position as commanded through spoken language.
+This project is insipred by the [ObjectNav Habitat Challenge 2022](https://aihabitat.org/challenge/2022/).
