@@ -8,7 +8,7 @@ category: state estimation
 related_publications: false
 ---
 
-An implementation of state-of-the-art State Estimation algorithms.
+This projects aims to implement the state-of-the-art State Estimation algorithms.
 
 
 <div class="row">
