@@ -9,3 +9,12 @@ category: motion planning
 ---
 An object navigation workflow that implements simualtion of navigation of an agent(robot) to a goal position as commanded through spoken language.
 This project is insipred by the [ObjectNav Habitat Challenge 2022](https://aihabitat.org/challenge/2022/).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Architecture.png" title=Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Object Navigation Flow
+</div>
