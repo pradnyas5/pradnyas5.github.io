@@ -18,14 +18,14 @@ Hey there!
 I am a Master's student @ the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a> I am passionate about developing software solutions that empower robots to sense, perceive, and navigate their environments. 
 My "Robotics" interests are particulary focused on leveraging vision for robot perception and navigation. 
 
-I am currently interning at [Celltrio](https://celltrio.com/) as a Robotics Software Engineer where my responsibilites consist of integrating tool transform functionality 
-in the kinematics model of a 7-axis SCARA robot to account for tool orientation and position, enhancing precision in end-effector manipulation. 
+I’ve had the opportunity to work on diverse aspects of robotics, from hardware development to software abstraction. Currently, I am working at [Celltrio](https://celltrio.com/), and previously, I interned at 
+[National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer '24) and [Technodune](https://www.linkedin.com/company/technodune/) (Summer '22–'23). While the majority of my contributions have been on the 
+software side of robotics—something I enjoy the most—I believe it's important as an engineer to also get hands-on with the hardware when needed. This experience has allowed me to thrive in fast-paced environments, 
+adapting quickly and taking on multiple roles, as well as working in larger teams with diverse backgrounds.
 
-During the summer of 2024, I interned at the [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) as a Robotics Software Engineer, contributing to development of Autonomy Software for a warehouse Mobile Manipulator. 
+To explore more about my professional experience, visit my `LinkedIn` profile.
 
-Prior to pursuing a Master's degree, I completed a Bachelor's degree in Mechatronics Engineering. 
-As an undergrad, I have also worked as a Robotics Engineer Intern at [Technodune](https://www.linkedin.com/company/technodune/) where I gained experience in overseeing both 
-hardware and software development in robotics.
+And of course, being a true engineer, I enjoy watching anime. `I never give up — that's my techie way, believe it!`
 
 That's all about me! 
 I'd love to connect for opportunities, discussions, or anything `robotics`!
