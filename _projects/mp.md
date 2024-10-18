@@ -7,4 +7,4 @@ github: https://github.com/pradnyas5/Language-Embodied-Navigation-using-Local-an
 importance: 7
 category: motion planning
 ---
-An object navigation workflow that implements simualtion of navigation of an agent(robot) to a goal position as comamnded through spoken language
+An object navigation workflow that implements simualtion of navigation of an agent(robot) to a goal position as commanded through spoken language.
