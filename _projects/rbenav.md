@@ -8,7 +8,7 @@ category: state estimation
 related_publications: false
 ---
 
-This projects aims to implement the state-of-the-art State Estimation algorithms such as EKF, UKF.
+This projects aims to implement the state-of-the-art State Estimation algorithms such as EKF, UKF etc.
 
 
 <div class="row">
