@@ -19,7 +19,7 @@ I am a Master's student @ the <a href="https://www.wpi.edu/academics/departments
 My "Robotics" interests are particulary focused on leveraging vision for robot perception and navigation. 
 
 I’ve had the opportunity to work on diverse aspects of robotics, from hardware development to software abstraction. Currently, I am working at [Celltrio](https://celltrio.com/), and previously, I interned at 
-[National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer '24) and [Technodune](https://www.linkedin.com/company/technodune/) (Summer '22–'23). While the majority of my contributions have been on the 
+[National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer '24) and Technodune (Summer '22–'23). While the majority of my contributions have been on the 
 software side of robotics—something I enjoy the most—I believe it's important as an engineer to also get hands-on with the hardware when needed. This experience has allowed me to thrive in fast-paced environments, 
 adapting quickly and taking on multiple roles, as well as working in larger teams with diverse backgrounds.
 
