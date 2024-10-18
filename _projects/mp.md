@@ -12,9 +12,9 @@ This project is insipred by the [ObjectNav Habitat Challenge 2022](https://aihab
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/Architecture.png" title=Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project2/Temp_Architecture.png" title="Researched Vision Pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-   Object Navigation Flow
+   Researched Vision Pipeline
 </div>
