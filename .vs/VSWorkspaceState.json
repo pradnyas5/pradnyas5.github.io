@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js",
     "\\assets\\json",
     "\\_bibliography",
     "\\_includes",
     "\\_pages",
-    "\\_projects"
+    "\\_projects",
+    "\\_sass"
   ],
+  "SelectedNode": "\\_projects\\einsteinvision.md",
   "PreviewInSolutionExplorer": false
 }
