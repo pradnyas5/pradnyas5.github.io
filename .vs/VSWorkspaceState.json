@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\assets\\json",
-    "\\_bibliography",
-    "\\_includes",
     "\\_pages",
     "\\_projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\_sass\\_typograms.scss",
   "PreviewInSolutionExplorer": false
 }

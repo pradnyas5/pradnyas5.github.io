@@ -25,7 +25,7 @@ adapting quickly and taking on multiple roles, as well as working in larger team
 
 To explore more about my professional experience, visit my `LinkedIn` profile.
 
-And of course, being a true engineer, I enjoy watching anime. `I never give up — that's my techie way, believe it!`
+Apart from Robotics, I an avid viewer of anime. `I never give up — that's my techie way, believe it!`
 
 That's all about me! 
 I'd love to connect for opportunities, discussions, or anything `robotics`!
