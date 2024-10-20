@@ -44,7 +44,7 @@ A symmetry-based approach is utilized to complete the point cloud. The best symm
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/3.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/3.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
