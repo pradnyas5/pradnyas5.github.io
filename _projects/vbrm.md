@@ -8,10 +8,11 @@ importance: 8
 category: computer vision
 ---
 
-Tech Stack:
-![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
+`Tech Stack`:
+![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=purple)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=purple)
+![PCL](https://img.shields.io/badge/-PCL-222222?style=flat&logo=github&logoColor=purple)
+![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo&logoColor=purple)
 
 ## 1. Introduction/Abstract
 The "Grasping Assuming Symmetry" project leverages the nature of symmetry in many objects. The approach uses a depth camera to capture real-time 3D representations of the environment, focusing on object symmetries to optimize grasping points. 
