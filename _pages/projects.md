@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of some cool projects that I have dedicatedly worked on (actively adding more project details, stay tuned!).
 nav: true
 nav_order: 3
-display_categories: [computer vision, state estimation, motion planning]
+display_categories: [deep learning, computer vision, motion planning, state estimation]
 horizontal: false
 ---
 
