@@ -8,12 +8,18 @@ importance: 8
 category: computer vision
 ---
 
+Tech Stack:
+![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
+
 ## 1. Introduction/Abstract
 The "Grasping Assuming Symmetry" project leverages the nature of symmetry in many objects. The approach uses a depth camera to capture real-time 3D representations of the environment, focusing on object symmetries to optimize grasping points. 
 This integration of depth-sensing technology and algorithmic innovation offers a promising advancement in robotic manipulation, ensuring more stable and efficient interactions with many objects in real-world scenarios.
 
+---
 ## 2. Implementation   
-
+---
 ### Step 1: Downsampling and major plane removal
 The point cloud data is first downsampled using a voxel grid to reduce the number of points, making subsequent processes computationally efficient.
 Plane segmentation using RANSAC is applied to remove the plane from the point cloud. This ensures that only the object of interest remains in the cloud.
