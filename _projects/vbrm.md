@@ -20,7 +20,7 @@ Plane segmentation using RANSAC is applied to remove the plane from the point cl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/1.png" title="Input Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/1.png" title="Input Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ Plane segmentation using RANSAC is applied to remove the plane from the point cl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/2.png" title="Output Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/2.png" title="Output Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -68,7 +68,7 @@ Normals are then visualized as small arrows emanating from points in the point c
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/4.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/4.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -89,13 +89,13 @@ The function then calculates the angles between the normals of each point in the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/5.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/5.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/6.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/6.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 
@@ -106,10 +106,10 @@ Thus, we obtain the second point for grasping which will be the most stable gras
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project8/7.png" title="Scene Classification" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project8/7.png" title="Scene Classification" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project8/8.png" title="Scene Classification" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project8/8.png" title="Scene Classification" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -122,7 +122,7 @@ Thus, we obtain the second point for grasping which will be the most stable gras
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/9.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/9.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -131,7 +131,7 @@ Thus, we obtain the second point for grasping which will be the most stable gras
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/10.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/10.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
@@ -140,7 +140,7 @@ Thus, we obtain the second point for grasping which will be the most stable gras
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project8/11.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project8/11.png" title="Incomplete & Complete Point Cloud" class="img-fluid rounded z-depth-1" style="width: 300px; height: 200px;" %}
     </div>
 </div>
 <div class="caption">
