@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of some cool projects that I have dedicatedly worked on (actively adding more project details, stay tuned!).
+description:
 nav: true
 nav_order: 3
 display_categories: [deep learning, computer vision, motion planning, state estimation]

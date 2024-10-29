@@ -3,10 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\js",
     "\\assets\\json",
+    "\\_includes",
     "\\_pages",
     "\\_projects",
     "\\_sass"
   ],
+  "SelectedNode": "\\_pages\\projects.md",
   "PreviewInSolutionExplorer": false
 }
