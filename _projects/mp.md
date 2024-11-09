@@ -30,7 +30,7 @@ three goal objects: ‘Sofa’, ‘Refrigerator’, and ‘Bed’. The environment’s top-dow
     2D Path Planning
 </div>
 
---- 
+
 
 ### Comparison w/ Learning based Planning
 
@@ -51,4 +51,3 @@ RL showed advantages over traditional planners in data-rich settings, though tra
     2D Path Planning
 </div>
 
---- 
