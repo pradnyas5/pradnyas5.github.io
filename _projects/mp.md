@@ -49,20 +49,6 @@ planners to plan upon.
 The resulting 2D path points are then re-converted to 3D. During 3D navigation, the robot gathers RGB and depth data. 
 The figure below shows RRT\* results for two scenes and three goal objects: ‘Sofa’, ‘Refrigerator’, and ‘Bed’. The environment’s top-down grid map displays free space in black and obstacles in white.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/1.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/2.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/3.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-   2D Path Planning
-</div>
 
 ---
 ### Comparison with Learning-based Planning
