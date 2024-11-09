@@ -1,3 +1,14 @@
+---
+layout: page
+title: NeRF
+description: Language Embodied Indoor Navigation
+img: assets/img/project7/mp.gif
+github: https://github.com/pradnyas5/Language-Embodied-Navigation-using-Local-and-Global-Planners
+importance: 7
+category:motion planning
+---
+
+
 ### Path Planning
 
 3D start and goal coordinates are converted to 2D for input to traditional planners, RRT\* and A\*, which search for the goal in a grid-based scene. 
