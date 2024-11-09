@@ -7,9 +7,10 @@
     "\\assets\\json",
     "\\_includes",
     "\\_pages",
+    "\\_posts",
     "\\_projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\_pages\\projects.md",
+  "SelectedNode": "\\_includes\\header.liquid",
   "PreviewInSolutionExplorer": false
 }
