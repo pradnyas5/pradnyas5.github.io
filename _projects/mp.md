@@ -67,27 +67,8 @@ obstackes in white.
 ---
 ### Sensory Observations as Feedback
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/6.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/7.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/8.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-   2D Path Planning
-</div>
-
-### Comparison with Learning-based Planning
-
-The objective of this section is to compare traditional planner with RL-based planning, assesing theri real world apllicabilty and feasibilty. We trained an RL model
-to navigate unknown environments and reach specified goal object positions. The implementation workflow and results can be seen in the figure below. We evaluated A\* and RRT\*, with RRT\* excelling 
-in optimal path finding due to its extensive node sampling and tree exyension, while A\* offers smoother, real-time trajectories. RL algorithms showed excellent results in data-rich settings, while traditional planners
-excelled in easier implementaion.
+As the agent naviagtes from start to goal postion, it retrievs the visual sensory feddback. The results obtained are showcased in the figure below. We can see the start and goal position, RGB images 
+as well as depth images.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
@@ -116,3 +97,24 @@ excelled in easier implementaion.
 <div class="caption">
    Visual Feedback
 </div>
+
+### Comparison with Learning-based Planning
+
+The objective of this section is to compare traditional planner with RL-based planning, assesing theri real world apllicabilty and feasibilty. We trained an RL model
+to navigate unknown environments and reach specified goal object positions. The implementation workflow and results can be seen in the figure below. We evaluated A\* and RRT\*, with RRT\* excelling 
+in optimal path finding due to its extensive node sampling and tree exyension, while A\* offers smoother, real-time trajectories. RL algorithms showed excellent results in data-rich settings, while traditional planners
+excelled in easier implementaion.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/4.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/5.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   RL-based Planning
+</div>
+
+
