@@ -72,7 +72,7 @@ as well as depth images.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/Scene1_start.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project7/Scene1_Start.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0" align=center>
         {% include figure.liquid path="assets/img/project7/Scene1_goal.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
@@ -91,7 +91,7 @@ as well as depth images.
         {% include figure.liquid path="assets/img/project7/Scene1_sofa_depth.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0" align=center>
-        {% include figure.liquid path="assets/img/project7/Scene5_bed_depth.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project7/Scene5_bed_Depth.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
