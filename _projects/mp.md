@@ -65,6 +65,22 @@ obstackes in white.
 </div>
 
 ---
+### Sensory Observations as Feedback
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/6.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/7.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/8.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   2D Path Planning
+</div>
 
 ### Comparison with Learning-based Planning
 
@@ -73,3 +89,30 @@ to navigate unknown environments and reach specified goal object positions. The 
 in optimal path finding due to its extensive node sampling and tree exyension, while A\* offers smoother, real-time trajectories. RL algorithms showed excellent results in data-rich settings, while traditional planners
 excelled in easier implementaion.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene1_start.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene1_goal.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene5_start.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene5_goal.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene1_sofa_depth.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0" align=center>
+        {% include figure.liquid path="assets/img/project7/Scene5_bed_depth.png" title="Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Visual Feedback
+</div>
