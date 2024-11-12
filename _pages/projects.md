@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [deep learning, computer vision, motion planning, state estimation]
 horizontal: false
 ---
