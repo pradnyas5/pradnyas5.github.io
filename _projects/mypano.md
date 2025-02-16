@@ -3,7 +3,7 @@ layout: page
 title: Panorama Stitching
 description: Traditional Image Stitching Algorithm
 img: assets/img/project4/mypano.png
-github: https://github.com/pradnyas5/Panorama_Stitching/tree/main/Phase1/Code
+redirect: https://github.com/pradnyas5/Panorama_Stitching/tree/main/Phase1/Code
 importance: 4
 category: computer vision
 ---
