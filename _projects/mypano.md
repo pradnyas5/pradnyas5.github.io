@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Panorama Stitching
-description: Fancy Cmera Tool!
+description: Fancy Camera Tool.
 img: assets/img/project4/mypano.png
 redirect: https://github.com/pradnyas5/Panorama_Stitching/tree/main/Phase1/Code
 importance: 4

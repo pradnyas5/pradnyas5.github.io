@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probabililty-based Edge Detection
-description: Classical approach to boundary detection
+description: Sharp edges, smarter probabilities!
 img: assets/img/project11/pbed.jpg
 redirect: https://github.com/pradnyas5/Probability-based-Edge-Detection
 importance: 11
