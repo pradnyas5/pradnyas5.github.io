@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AutoCalib 
-description: Implementation of Zhang's Camera Calibration Method
+description: Auto-calibrate, perfect every shot
 img: assets/img/project10/camcalib.jpg
 redirect: https://github.com/pradnyas5/Zhang-Camera-Calibration
 importance: 10
