@@ -21,7 +21,7 @@ driven by a passion for crafting software that enables robots to see, sense, and
 👩🏻‍💻 My journey is centered around conceptual Robotics with Software ventures, equipping me with a specialized perspective. I'm passionate about theory but recognize the importance of practice for a well-rounded engineering perspective. 
 Past experiences have taught me to excel in fast-paced settings, adapt to multiple roles, and collaborate with diverse teams.
 
-🔇 Outside of robotics, I recharge through books on life, spirituality, and philosophy.
+🔇 Outside of robotics, I recharge through books on music, life, spirituality, and philosophy.
 
-🔭 Curious about my professional journey? Check out my `LinkedIn` for more! 
+🔭 Curious about my professional journey? Download my `CV` to learn more! 
 Excited to connect for opportunities, insights, or a good `robotics` chat!
