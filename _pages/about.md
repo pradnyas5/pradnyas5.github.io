@@ -13,16 +13,21 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello there! 👋🏻
+Welcome to my portfolio! 
+If you’re here, you’re probably a recruiter, a friend, or a stranger. Hi, stranger!
+Scroll on to see what I’ve been up to....
 
-🚀 I’m Pradnya, a `Robotics Software Engineer` by profession. By day, I write code to make robots do their thing; by night, I reflect on how Robotics can drive meaningful, real-world impact.
+About Me 👋🏻
 
-🎓 I graduated with a Master's degree in Robotics Enginnering from the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, at <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, in May 2025.
- 
-👩🏻‍💻 Currently I work as a Software Engineer I, Robotics where my work is centered around conceptual Robotics with Software ventures, equipping me with a specialized perspective. I'm passionate about theory but recognize the importance of practice for a well-rounded engineering perspective. Past experiences have taught me to excel in fast-paced settings, adapt to multiple roles, and collaborate with diverse teams.
+As a Robotics Software Engineer with a Master’s in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering</a> from <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, I've worked across various applications focused on developing software for robot navigation, perception, and system integration.
 
-🔇 Outside of robotics, I recharge through exploring music, spirituality, and philosophy. 
+What I Bring to the Table 👩🏻‍💻
 
-🔭 Curious about my professional journey? Download my `CV` to learn more! 
+I like owning problems end to end, from the first line of code to the moment the system is running in the field. I'm happy to dig into unfamiliar code, pick up new tools quickly, and step in wherever the team needs it.
 
-Excited to connect for opportunities, insights, or a good `robotics` chat!
+Why Robotics? 🚀
+
+Robotics blends complex logic with real-world impact. I love building software that doesn't just run, but moves, senses, and solves problems in the physical world. What drives me most is making robots reliable when conditions aren't perfect, because that's when they matter.
+
+🔭 Scroll back up to check out my projects and publication for a quick peek at what I do, and if you’d like the full story, download my `CV`. 
+I’m always open to connecting and exploring exciting opportunities, let’s build something impactful together!
