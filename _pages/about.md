@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: • You have the right to work, but never to the fruits of work ✅•
 
 profile:
   align: right
