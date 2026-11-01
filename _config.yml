@@ -6,13 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Pradnya
 middle_name:
 last_name: Shinde
-email: pshinde1@wpi.edu
+email: pradnya.ps14@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Robotics Software Engineer. Currently building a robot, be right back 🤖
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: robotics, robotics software engineer, ROS, perception, navigation, autonomous systems, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👩‍🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Reach me via email.
+  Open to robotics software roles. Feel free to reach out!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -243,7 +243,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/

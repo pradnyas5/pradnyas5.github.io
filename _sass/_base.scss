@@ -1341,3 +1341,19 @@ ninja-keys::part(ninja-input-wrapper) {
   opacity: 1;
   transform: none;
 }
+
+// About page section headings
+
+.about-content h3 {
+  margin-top: 2rem;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 2.5rem;
+    height: 3px;
+    margin-top: 0.4rem;
+    border-radius: 2px;
+    background: var(--global-theme-color);
+  }
+}
