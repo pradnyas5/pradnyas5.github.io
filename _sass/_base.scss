@@ -4,6 +4,28 @@
 
 // Typography
 
+$font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-heading: "Space Grotesk", $font-body;
+
+body,
+button,
+input,
+.btn {
+  font-family: $font-body;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand,
+.post-title {
+  font-family: $font-heading;
+  letter-spacing: -0.01em;
+}
+
 p,
 h1,
 h2,

@@ -15,13 +15,13 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to my portfolio! 
+`Welcome to my portfolio!`
 If you’re here, you’re probably a recruiter, a friend, or a stranger. Hi, stranger!
 Scroll on to see what I’ve been up to....
 
 About Me 👋🏻
 
-As a Robotics Software Engineer with a Master’s in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering</a> from <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, I've worked across various applications focused on developing software for robot navigation, perception, and system integration.
+As a `Robotics Software Engineer` with a Master’s in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering</a> from <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, I've worked across various applications focused on developing software for robot navigation, perception, and system integration.
 
 What I Bring to the Table 👩🏻‍💻
 
