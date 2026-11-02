@@ -23,9 +23,7 @@ I'm a Robotics Software Engineer with a Master's in [Robotics Engineering](https
 
 ### What I bring 👩🏻‍💻
 
-- **End-to-end ownership**: from the first line of code to the system running in the field
-- **Fast ramp-up**: comfortable digging into unfamiliar code and picking up new tools
-- **Team-first**: I step in wherever the team needs it
+I like owning problems end to end, from the first line of code to the moment the system is running in the field. I'm happy to dig into unfamiliar code, pick up new tools quickly, and step in wherever the team needs it.
 
 ### Why robotics? 🚀
 
