@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probabililty-based Edge Detection
-description: Sharp edges, smarter probabilities!
+description: Detects object boundaries by combining texture, brightness and color gradients from custom filter banks.
 img: assets/img/project11/pbed.jpg
 redirect: https://github.com/pradnyas5/Probability-based-Edge-Detection
 importance: 11

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Panorama Stitching
-description: Fancy Camera Tool.
+description: Stitches overlapping photos into a panorama using corner detection, feature matching, RANSAC and blending.
 img: assets/img/project4/mypano.png
 redirect: https://github.com/pradnyas5/Panorama_Stitching/tree/main/Phase1/Code
-importance: 4
+importance: 7
 category: computer vision
 tech: [Python, OpenCV]
 ---
