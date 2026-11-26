@@ -6,6 +6,7 @@ img: assets/img/project11/pbed.jpg
 redirect: https://github.com/pradnyas5/Probability-based-Edge-Detection
 importance: 11
 category: computer vision
+tech: [Python, PyTorch, OpenCV]
 ---
 
 A probability-based edge detection algorithm that encapsulates usage of filter banks, half-disc masks, k-means clustering for building texture,

@@ -17,6 +17,9 @@
         {% endif %}
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
+        {% if project.tech %}
+          <p class="project-tech">{{ project.tech | join: ' · ' }}</p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">

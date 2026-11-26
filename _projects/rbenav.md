@@ -6,5 +6,6 @@ img: assets/img/project1/project1_profile.png
 redirect: https://github.com/pradnyas5/state-estimation-algorithms
 importance: 1
 category: state estimation
+tech: [Python, OpenCV]
 related_publications: false
 ---

@@ -742,6 +742,20 @@ footer.sticky-bottom {
       color: var(--global-text-color-light);
       font-size: 0.9rem;
     }
+
+    // Lets the tech line sit at the bottom so it lines up across a row
+    .card-body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .project-tech {
+      margin: auto 0 0;
+      padding-top: 0.5rem;
+      color: var(--global-text-color-light);
+      font-size: 0.75rem;
+      letter-spacing: 0.01em;
+    }
   }
 
   a:hover .project-card {
